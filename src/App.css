@@ -182,7 +182,7 @@
 
 .pv-post-card {
   border-bottom: 1px solid #262626;
-  padding-bottom: 32px;
+  padding-bottom: 10px;
 }
 
 .pv-post-head {
@@ -564,7 +564,7 @@
   justify-content: center;
   gap: 0;
   padding: 0 16px;
-  min-height: 64px;
+  min-height: 50px;
   background: rgba(0, 0, 0, 0.9);
   border-top: 1px solid #262626;
   backdrop-filter: blur(20px);
@@ -575,8 +575,8 @@
   border: 0;
   border-radius: 0;
   min-width: 72px;
-  min-height: 64px;
-  padding: 16px 14px;
+  min-height: 50px;
+  padding: 10px 8px;
   background: transparent;
   color: #8d8d8d;
   cursor: pointer;
@@ -620,7 +620,7 @@
 
 @media (max-width: 640px) {
   .pv-app {
-    padding: 5px;
+    padding: 5px 10px 55px;
   }
 
   .pv-header h1,
