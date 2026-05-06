@@ -606,7 +606,7 @@ function App() {
       <section className="pv-shell">
         <header className="pv-header">
           <div>
-            <h1>PromptVibe</h1>
+            <h1 className="name">Prompton</h1>
           </div>
 
           <div className="pv-header-actions" aria-hidden="true">
