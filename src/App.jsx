@@ -606,7 +606,6 @@ function App() {
       <section className="pv-shell">
         <header className="pv-header">
           <div>
-            <p className="pv-brand-kicker">The Curated Gallery</p>
             <h1>PromptVibe</h1>
           </div>
 
